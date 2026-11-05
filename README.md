@@ -1,135 +1,85 @@
 <div align="center">
 
-# Luis Mejía Bravo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Luis%20Mej%C3%ADa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Guatemala&descSize=18&descAlignY=60" alt="header" />
 
-**Full-Stack Developer** · Ingeniería en Sistemas · Guatemala 🇬🇹
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=APIs+en+producci%C3%B3n;Chatbots+%C2%B7+CRM+%C2%B7+IA;Tiempo+real+%C2%B7+Edge+%C2%B7+M%C3%B3vil;Aprendo+construyendo" alt="typing" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismejiaa/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luismejiab02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MejiaBravoLuis)
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Construyo+APIs+y+productos+en+producci%C3%B3n;Chatbots%2C+CRM+e+integraciones;Aprendo+construyendo" alt="typing" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismejiaa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luismejiab02@gmail.com)
 
 </div>
 
----
+<br/>
 
-Desarrollador full-stack en **Iobot**, una plataforma SaaS de chatbots y CRM en producción.  
-Trabajo en el backend que mueve conversaciones reales: mensajería multicanal, automatizaciones, IA y e-commerce.
-
-Antes, Perito en Informática en Fundación Kinal. Hoy estudio Ingeniería en Sistemas en UMG.
+```ts
+const luis = {
+  role:     "Full-Stack Developer",
+  focus:    ["Node.js APIs", "mensajería multicanal", "IA aplicada"],
+  building: "SaaS de chatbots y CRM en producción",
+  studying: "Ingeniería en Sistemas · UMG",
+  location: "Guatemala 🇬🇹",
+  motto:    "Aprendo construyendo",
+};
+```
 
 <br/>
 
-## En números
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **80+** | **180+** | **5** | **3** |
-| módulos de API | modelos de datos | canales de mensajería | workers en cloud |
-
-> WhatsApp · Messenger · Instagram · Telegram · TikTok  
-> API · worker de IA · worker de crons · Fly.io · PlanetScale · Redis
-
-<br/>
-
-## Experiencia
-
-### Iobot — Full-Stack Developer
-`SaaS` `producción` `Node.js` `React`
-
-Plataforma de chatbots y CRM para empresas. Contribuyo al API y a features de producto que ya usan clientes reales.
-
-<table>
-<tr>
-<td width="50%">
-
-**Producto**
-- Motor de chatbots multicanal
-- CRM: contactos, tickets, embudos y tags
-- Workflows, triggers y campañas
-- Catálogos, órdenes y delivery
-- Reportería y dashboards
-
-</td>
-<td width="50%">
-
-**Ingeniería**
-- Integraciones OpenAI / OpenRouter
-- Pagos con Stripe y billing
-- Redis, colas SQS y jobs programados
-- S3, Cloudflare R2 y Socket.io
-- RBAC, métricas y deploys en Fly.io
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Stack
+### ⚡ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,express,mysql,postgres,mongodb,redis,aws,docker,git,github,postman,figma" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,swift,c,mysql,postgres,mongodb,redis,aws,cloudflare,docker,git" alt="stack" />
 </div>
 
 <br/>
 
-| Área | Tecnología |
-|---|---|
-| **Frontend** | JavaScript, React, Next.js, HTML, CSS |
-| **Backend** | Node.js, Express, Sequelize, Socket.io |
-| **Datos** | MySQL, PostgreSQL, MongoDB, Redis |
-| **Cloud** | Fly.io, AWS S3/SQS, Cloudflare R2, Docker |
-| **Producto** | OpenAI, Stripe, WhatsApp API, Shopify, Firebase |
-
-<br/>
-
-## Proyectos
+### 🚀 Proyectos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Iobot Platform</h3>
-      <p>SaaS de chatbots, CRM e IA. API con 80+ módulos, 180+ tablas e integraciones con WhatsApp, Stripe, Shopify y OpenAI. En producción.</p>
-      <code>Node.js</code> · <code>Express</code> · <code>MySQL</code> · <code>Redis</code> · <code>AWS</code>
+      <h4>Plataforma de chatbots + CRM</h4>
+      API multi-tenant con 80+ módulos, mensajería en 5 canales, IA y dashboards en vivo.<br/><br/>
+      <code>Node.js</code> <code>Sequelize</code> <code>Redis</code> <code>Socket.io</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Sistema Hotelero</h3>
-      <p>App web de reservas y habitaciones, con autenticación y gestión operativa del hotel.</p>
-      <code>React</code> · <code>Node.js</code> · <code>MongoDB</code>
+      <h4>Panel web</h4>
+      Operación diaria: tickets, reportes descargables y tracking de conversiones.<br/><br/>
+      <code>Next.js</code> <code>TypeScript</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>App Bancaria</h3>
-      <p>Banca digital con transferencias, autenticación y panel de usuario.</p>
-      <code>Next.js</code> · <code>Node.js</code> · <code>MongoDB</code>
+      <h4>Sistema Hotelero</h4>
+      Reservas, habitaciones y autenticación.<br/><br/>
+      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Más en GitHub</h3>
-      <p>Proyectos académicos y experimentos: JavaFX, React, APIs y dashboards.</p>
-      <a href="https://github.com/MejiaBravoLuis?tab=repositories">Ver repositorios →</a>
+      <h4>App Bancaria</h4>
+      Transferencias y panel de usuario.<br/><br/>
+      <code>Next.js</code> <code>Node.js</code> <code>MongoDB</code>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## Stats
+### 📊 Actividad
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MejiaBravoLuis&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MejiaBravoLuis&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MejiaBravoLuis&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MejiaBravoLuis&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=58A6FF" alt="langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MejiaBravoLuis&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
 </div>
 
 <br/>
 
-## Contacto
-
-¿Una oportunidad, un proyecto o una colaboración?  
-**[luismejiab02@gmail.com](mailto:luismejiab02@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/luismejiaa/)**
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="" />
+
+**¿Una oportunidad o una colaboración?** → [luismejiab02@gmail.com](mailto:luismejiab02@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer" alt="" />
+
 </div>
