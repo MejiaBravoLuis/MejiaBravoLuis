@@ -1,0 +1,26 @@
+name: Rotate banner
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # diario, 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rotate banner
+        run: ./scripts/rotate-banner.sh
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "Sin cambios"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: rotar banner"
+          git push
