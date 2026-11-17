@@ -1,5 +1,5 @@
 <p align="center">
-<!--BANNER-START--><img src="assets/banner-1.gif" width="720" alt="banner" /><!--BANNER-END-->
+<!--BANNER-START--><img src="assets/banner-2.gif" width="720" alt="banner" /><!--BANNER-END-->
 </p>
 
 <p align="center">
